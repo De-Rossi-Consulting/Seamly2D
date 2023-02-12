@@ -72,7 +72,7 @@
 #include <QFileInfo>
 #include <QGraphicsScene>
 #include <QMessageBox>
-#include <QProcess>
+// #include <QProcess>
 #include <QToolButton>
 #include <QtSvg>
 #include <QPrintPreviewDialog>
@@ -1120,18 +1120,18 @@ void MainWindowsNoGUI::convertPdfToPs(const QStringList &params) const
 #ifndef QT_NO_CURSOR
     QGuiApplication::setOverrideCursor(Qt::WaitCursor);
 #endif
-    QProcess proc;
+    // QProcess proc;
 #if defined(Q_OS_MAC)
     // Fix issue #594. Broken export on Mac.
     proc.setWorkingDirectory(qApp->applicationDirPath());
     proc.start(QLatin1String("./") + PDFTOPS, params);
 #else
-    proc.start(PDFTOPS, params);
+    // proc.start(PDFTOPS, params);
 #endif
-    if (proc.waitForStarted(15000))
-    {
-        proc.waitForFinished(15000);
-    }
+    // if (proc.waitForStarted(15000))
+    // {
+    //     proc.waitForFinished(15000);
+    // }
 #ifndef QT_NO_CURSOR
     QGuiApplication::restoreOverrideCursor();
 #endif
@@ -1139,7 +1139,8 @@ void MainWindowsNoGUI::convertPdfToPs(const QStringList &params) const
     QFile f(params.last());
     if (f.exists() == false)
     {
-        const QString msg = tr("Creating file '%1' failed! %2").arg(params.last()).arg(proc.errorString());
+        // const QString msg = tr("Creating file '%1' failed! %2").arg(params.last()).arg(proc.errorString());
+        const QString msg = "not working";
         QMessageBox msgBox(QMessageBox::Critical, tr("Critical error!"), msg, QMessageBox::Ok | QMessageBox::Default);
         msgBox.exec();
     }

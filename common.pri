@@ -151,3 +151,6 @@ CONFIG(debug, debug|release){
     message("Release mode: no compiler warnings")
     CONFIG += warn_off
 }
+
+QMAKE_CXXFLAGS += -std=c++17
+# QMAKE_LFLAGS += -sASYNCIFY -Os

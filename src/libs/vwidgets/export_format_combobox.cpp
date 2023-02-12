@@ -26,7 +26,7 @@
 #include <Qt>
 #include <QPainter>
 #include <QPixmap>
-#include <QProcess>
+//#include <QProcess>
 #include <QDebug>
 #include <QVariant>
 
@@ -176,24 +176,24 @@ bool ExportFormatCombobox::testPdf()
 {
     bool res = false;
 
-    QProcess proc;
+    //QProcess proc;
     QStringList args;
 
-#if defined(Q_OS_WIN) || defined(Q_OS_OSX)
-    // Seek pdftops in app bundle or near valentin.exe
-    proc.start(qApp->applicationDirPath() + QLatin1String("/")+ PDFTOPS, QStringList());
-#else
-    proc.start(PDFTOPS, QStringList()); // Seek pdftops in standard path
-#endif
+// #if defined(Q_OS_WIN) || defined(Q_OS_OSX)
+//     // Seek pdftops in app bundle or near valentin.exe
+//     proc.start(qApp->applicationDirPath() + QLatin1String("/")+ PDFTOPS, QStringList());
+// #else
+//     proc.start(PDFTOPS, QStringList()); // Seek pdftops in standard path
+// #endif
 
-    if (proc.waitForStarted(15000) && (proc.waitForFinished(15000) || proc.state() == QProcess::NotRunning))
-    {
-        res = true;
-    }
-    else
-    {
-        qDebug()<<PDFTOPS<<"error"<<proc.error()<<proc.errorString();
-    }
+//     if (proc.waitForStarted(15000) && (proc.waitForFinished(15000) || proc.state() == QProcess::NotRunning))
+//     {
+//         res = true;
+//     }
+//     else
+//     {
+//         qDebug()<<PDFTOPS<<"error"<<proc.error()<<proc.errorString();
+//     }
     return res;
 }
 

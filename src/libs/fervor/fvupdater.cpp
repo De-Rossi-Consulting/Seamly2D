@@ -188,7 +188,7 @@ void FvUpdater::startDownloadFile(QUrl url, QString name) {
 	request.setHeader(QNetworkRequest::UserAgentHeader,
 					  QCoreApplication::applicationName());
 	request.setUrl(url);
-	request.setSslConfiguration(QSslConfiguration::defaultConfiguration());
+	// request.setSslConfiguration(QSslConfiguration::defaultConfiguration());
 
 	m_reply = m_qnam.get(request);
 	connect(m_reply, SIGNAL(metaDataChanged()), this, SLOT(getFileSize()));
@@ -281,7 +281,7 @@ void FvUpdater::startDownloadFeed(const QUrl &url) {
 	request.setHeader(QNetworkRequest::UserAgentHeader,
 					  QCoreApplication::applicationName());
 	request.setUrl(url);
-	request.setSslConfiguration(QSslConfiguration::defaultConfiguration());
+	// request.setSslConfiguration(QSslConfiguration::defaultConfiguration());
 
 	m_reply = m_qnam.get(request);
 

@@ -98,7 +98,7 @@
 // #include <QSourceLocation>
 #include <QUndoStack>
 #include <QAction>
-#include <QProcess>
+// #include <QProcess>
 #include <QSettings>
 #include <QTimer>
 #include <QtGlobal>
@@ -1966,7 +1966,7 @@ void MainWindow::ShowMeasurements()
 
         const QString seamlyme = qApp->SeamlyMeFilePath();
         const QString workingDirectory = QFileInfo(seamlyme).absoluteDir().absolutePath();
-        QProcess::startDetached(seamlyme, arguments, workingDirectory);
+        // QProcess::startDetached(seamlyme, arguments, workingDirectory);
     }
     else
     {
@@ -5608,7 +5608,7 @@ void MainWindow::CreateActions()
             arguments.append(QLatin1String("--") + LONG_OPTION_NO_HDPI_SCALING);
         }
 
-        QProcess::startDetached(seamlyme, arguments, workingDirectory);
+        // QProcess::startDetached(seamlyme, arguments, workingDirectory);
     });
 
     connect(ui->editCurrent_Action, &QAction::triggered, this, &MainWindow::ShowMeasurements);
@@ -5858,7 +5858,7 @@ bool MainWindow::LoadPattern(const QString &fileName, const QString& customMeasu
                 arguments.append(QLatin1String("--") + LONG_OPTION_NO_HDPI_SCALING);
             }
 
-            QProcess::startDetached(seamlyme, arguments, workingDirectory);
+            // QProcess::startDetached(seamlyme, arguments, workingDirectory);
             qApp->exit(V_EX_OK);
             return false; // stop continue processing
         }
