@@ -53,7 +53,7 @@
 #define VABSTRACTAPPLICATION_H
 
 #include <qcompilerdetection.h>
-#include <QApplication>
+#include <QtWidgets>
 #include <QCoreApplication>
 #include <QGraphicsScene>
 #include <QLocale>

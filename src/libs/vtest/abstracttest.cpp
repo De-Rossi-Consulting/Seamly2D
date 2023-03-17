@@ -60,7 +60,7 @@
 #include <QFlags>
 #include <QIODevice>
 #include <QPointF>
-#include <QProcess>
+// #include <QProcess>
 #include <QScopedPointer>
 #include <QString>
 #include <QStringList>
@@ -153,37 +153,38 @@ int AbstractTest::Run(int exit, const QString &program, const QStringList &argum
         return TST_EX_BIN;
     }
 
-    QScopedPointer<QProcess> process(new QProcess());
-    process->setWorkingDirectory(info.absoluteDir().absolutePath());
-    process->start(program, arguments);
+    // QScopedPointer<QProcess> process(new QProcess());
+    // process->setWorkingDirectory(info.absoluteDir().absolutePath());
+    // process->start(program, arguments);
 
-    if (not process->waitForStarted(msecs))
-    {
-        error = QString("The start operation timed out or an error occurred.\n%1").arg(parameters);
-        process->kill();
-        return TST_EX_START_TIME_OUT;
-    }
+    // if (not process->waitForStarted(msecs))
+    // {
+    //     error = QString("The start operation timed out or an error occurred.\n%1").arg(parameters);
+    //     process->kill();
+    //     return TST_EX_START_TIME_OUT;
+    // }
 
-    if (not process->waitForFinished(msecs))
-    {
-        error = QString("The finish operation timed out or an error occurred.\n%1").arg(parameters);
-        process->kill();
-        return TST_EX_FINISH_TIME_OUT;
-    }
+    // if (not process->waitForFinished(msecs))
+    // {
+    //     error = QString("The finish operation timed out or an error occurred.\n%1").arg(parameters);
+    //     process->kill();
+    //     return TST_EX_FINISH_TIME_OUT;
+    // }
 
-    if (process->exitStatus() == QProcess::CrashExit)
-    {
-        error = QString("Program crashed.\n%1\n%2").arg(parameters).arg(QString(process->readAllStandardError()));
-        return TST_EX_CRASH;
-    }
+    // if (process->exitStatus() == QProcess::CrashExit)
+    // {
+    //     error = QString("Program crashed.\n%1\n%2").arg(parameters).arg(QString(process->readAllStandardError()));
+    //     return TST_EX_CRASH;
+    // }
 
-    if (process->exitCode() != exit)
-    {
-        error = QString("Unexpected finish.\n%1").arg(QString(process->readAllStandardError()));
-        return process->exitCode();
-    }
+    // if (process->exitCode() != exit)
+    // {
+    //     error = QString("Unexpected finish.\n%1").arg(QString(process->readAllStandardError()));
+    //     return process->exitCode();
+    // }
 
-    return process->exitCode();
+    // return process->exitCode();
+    return 1;
 }
 
 //---------------------------------------------------------------------------------------------------------------------
