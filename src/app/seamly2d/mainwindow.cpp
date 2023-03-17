@@ -4213,35 +4213,41 @@ void MainWindow::New()
         qCDebug(vMainWindow, "Generated Draft Block name: %s", qUtf8Printable(draftBlockName));
 
         qCDebug(vMainWindow, "First Draft Block");
-        DialogNewPattern newPattern(pattern, draftBlockName, this);
-        if (newPattern.exec() == QDialog::Accepted)
-        {
-            draftBlockName = newPattern.name();
-            qApp->setPatternUnit(newPattern.PatternUnit());
-            qCDebug(vMainWindow, "Draft Block name: %s", qUtf8Printable(draftBlockName));
-        }
-        else
-        {
-            qCDebug(vMainWindow, "Creating new Draft Block was canceled.");
-            return;
-        }
-
-        //Set scene size to size scene view
-        VMainGraphicsView::NewSceneRect(draftScene, ui->view);
-        VMainGraphicsView::NewSceneRect(pieceScene, ui->view);
-
-        addDraftBlock(draftBlockName);
-
-        mouseCoordinates = new MouseCoordinates(qApp->patternUnit());
-        ui->statusBar->addPermanentWidget((mouseCoordinates));
-
-        m_curFileFormatVersion = VPatternConverter::PatternMaxVer;
-        m_curFileFormatVersionStr = VPatternConverter::PatternMaxVerStr;
+        this->newPattern = new DialogNewPattern(pattern, draftBlockName, this);
+        connect(this->newPattern, &QDialog::accepted, this, &MainWindow::NewWasSuccessful);
+        connect(this->newPattern, &QDialog::rejected, this, &MainWindow::NewWasCancelled);
+        newPattern->open();
     }
     else
     {
         OpenNewSeamly2D();
     }
+}
+
+void MainWindow::NewWasSuccessful()
+{
+    QString draftBlockName = this->newPattern->name();
+    qApp->setPatternUnit(this->newPattern->PatternUnit());
+    qCDebug(vMainWindow, "Draft Block name: %s", qUtf8Printable(draftBlockName));
+
+    //Set scene size to size scene view
+    VMainGraphicsView::NewSceneRect(draftScene, ui->view);
+    VMainGraphicsView::NewSceneRect(pieceScene, ui->view);
+
+    addDraftBlock(draftBlockName);
+
+    mouseCoordinates = new MouseCoordinates(qApp->patternUnit());
+    ui->statusBar->addPermanentWidget((mouseCoordinates));
+
+    m_curFileFormatVersion = VPatternConverter::PatternMaxVer;
+    m_curFileFormatVersionStr = VPatternConverter::PatternMaxVerStr;
+    return;
+}
+
+void MainWindow::NewWasCancelled()
+{
+    qCDebug(vMainWindow, "Creating new Draft Block was canceled.");
+    return;
 }
 
 //---------------------------------------------------------------------------------------------------------------------

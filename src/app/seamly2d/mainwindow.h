@@ -56,6 +56,7 @@
 #include "mainwindowsnogui.h"
 #include "core/vcmdexport.h"
 #include "../vmisc/vlockguard.h"
+#include "dialogs/dialognewpattern.h"
 
 #include <QPointer>
 
@@ -221,6 +222,8 @@ private slots:
     void showLayoutMode(bool checked);
 
     void New();
+    void NewWasSuccessful();
+    void NewWasCancelled();
     bool SaveAs();
     bool Save();
     void Open();
@@ -319,6 +322,8 @@ private:
     std::shared_ptr<VLockGuard<char>> lock;
 
     QDoubleSpinBox                   *zoomScaleSpinBox;
+
+    DialogNewPattern                  *newPattern;
 
     void                              SetDefaultHeight();
     void                              SetDefaultSize();
