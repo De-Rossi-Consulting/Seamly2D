@@ -2,11 +2,10 @@ var def_8cpp =
 [
     [ "AbsoluteMPath", "d6/d0b/def_8cpp.html#a8d50451fd4a55abe67764f4301741a69", null ],
     [ "darkenPixmap", "d6/d0b/def_8cpp.html#a22a5db7a0dfa32ad14c6d35651c2c422", null ],
-    [ "fileDialog", "d6/d0b/def_8cpp.html#a8b10f7b4607dd5e75a41e8007586e9c1", null ],
     [ "FromPixel", "d6/d0b/def_8cpp.html#ace05d8de4ddacda154ba7dfca94c1542", null ],
     [ "GetMinPrinterFields", "d6/d0b/def_8cpp.html#add7320b6951a9336f34f515402f29388", null ],
     [ "GetPrinterFields", "d6/d0b/def_8cpp.html#a2cd5bde5ec66f27f34b8844839fe6da2", null ],
-    [ "initHighDpiScaling", "d6/d0b/def_8cpp.html#a1bf2551180232a51cb3941a5394ed35e", null ],
+    [ "InitHighDpiScaling", "d6/d0b/def_8cpp.html#a1a1ecd7b9352a026b0a07b101a539a95", null ],
     [ "InitLanguages", "d6/d0b/def_8cpp.html#aaf08b4a7d0085a255e1dde1ce3b7206e", null ],
     [ "IsOptionSet", "d6/d0b/def_8cpp.html#a9d0bfb211c7efe9986367b0de5883ad9", null ],
     [ "makeHeaderName", "d6/d0b/def_8cpp.html#a0d388d3b034a1f7b4f3618163b213f73", null ],
@@ -44,7 +43,6 @@ var def_8cpp =
     [ "cosh_F", "d6/d0b/def_8cpp.html#ab086d134c6a1009fa00962fa54d9e93e", null ],
     [ "cursorArrowCloseHand", "d6/d0b/def_8cpp.html#a7b39ab83231e23ee686ecabe02567714", null ],
     [ "cursorArrowOpenHand", "d6/d0b/def_8cpp.html#a0f35c65ac737bad188895abceeadcf48", null ],
-    [ "cursorResizeArrow", "d6/d0b/def_8cpp.html#ae4fa6eb3ba78af5a547e5b7d27ec6366", null ],
     [ "degreeSymbol", "d6/d0b/def_8cpp.html#a9d57cde0b2077de64d37157baa0e9d10", null ],
     [ "degTorad_F", "d6/d0b/def_8cpp.html#ad0679d063111d3e8aceaf2a91d243398", null ],
     [ "exp_F", "d6/d0b/def_8cpp.html#ae67530a59f92381ca67213f3c044c1a8", null ],
@@ -93,9 +91,6 @@ var def_8cpp =
     [ "sin_F", "d6/d0b/def_8cpp.html#a5ee284ec559bdbc00fd8b7e86f468c0f", null ],
     [ "sinD_F", "d6/d0b/def_8cpp.html#a741f8fe695d3104406290d3a5d56066b", null ],
     [ "sinh_F", "d6/d0b/def_8cpp.html#a852ca08ff416add569934e5ed595cf67", null ],
-    [ "sm2dExt", "d6/d0b/def_8cpp.html#aa5fca30929e71e5e7100c6298b4d029f", null ],
-    [ "smisExt", "d6/d0b/def_8cpp.html#a9bfcb9e60796e9cc99f22d5f89565911", null ],
-    [ "smmsExt", "d6/d0b/def_8cpp.html#a9587970837f22f368e5962c72dc1eae3", null ],
     [ "sqrt_F", "d6/d0b/def_8cpp.html#ac889b53c7acfce1f2e4d463444c29c26", null ],
     [ "strBisector", "d6/d0b/def_8cpp.html#aefb6e31b0bee618cc6955ebc20972bc5", null ],
     [ "strCastle", "d6/d0b/def_8cpp.html#a546f1f0a79108b2d73f6d15726701a96", null ],
@@ -115,8 +110,5 @@ var def_8cpp =
     [ "unitCM", "d6/d0b/def_8cpp.html#a76bea8e4da8138da44cd242f8aa85a37", null ],
     [ "unitINCH", "d6/d0b/def_8cpp.html#ac99511a44618ea64c4927fe23f1a8832", null ],
     [ "unitMM", "d6/d0b/def_8cpp.html#a4b5c5c4ec31a31da47f7aa6fe4231101", null ],
-    [ "unitPX", "d6/d0b/def_8cpp.html#ab7b5d272ddc9705ff0a78d42eb8060a1", null ],
-    [ "valExt", "d6/d0b/def_8cpp.html#a0753dcf9b5b856c64988b254c3bcd8ba", null ],
-    [ "vitExt", "d6/d0b/def_8cpp.html#a648d0adfbe92b249d55c0c580f57fd13", null ],
-    [ "vstExt", "d6/d0b/def_8cpp.html#a7abf3e3f85fd48f0b89c5aa8c2bdf805", null ]
+    [ "unitPX", "d6/d0b/def_8cpp.html#ab7b5d272ddc9705ff0a78d42eb8060a1", null ]
 ];
