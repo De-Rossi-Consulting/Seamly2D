@@ -801,34 +801,35 @@
 <g id="node25" class="node">
 <title>Node27</title>
 <g id="a_node25"><a xlink:href="../../db/db7/classXMLBufferMgr.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="240,-2620.5 240,-2842.5 391,-2842.5 391,-2620.5 240,-2620.5"/>
-<text text-anchor="middle" x="315.5" y="-2830.5" font-family="Helvetica,sans-Serif" font-size="10.00">XMLBufferMgr</text>
-<polyline fill="none" stroke="black" points="240,-2823.5 391,-2823.5 "/>
-<text text-anchor="middle" x="315.5" y="-2811.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="240,-2804.5 391,-2804.5 "/>
-<text text-anchor="start" x="248" y="-2792.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ XMLBufferMgr()</text>
-<text text-anchor="start" x="248" y="-2781.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ XMLBufferMgr()</text>
-<text text-anchor="start" x="248" y="-2770.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ XMLBufferMgr()</text>
-<text text-anchor="start" x="248" y="-2759.5" font-family="Helvetica,sans-Serif" font-size="10.00">* fBufCount</text>
-<text text-anchor="start" x="248" y="-2748.5" font-family="Helvetica,sans-Serif" font-size="10.00">* ~XMLBufferMgr()</text>
-<text text-anchor="start" x="248" y="-2737.5" font-family="Helvetica,sans-Serif" font-size="10.00">* bidOnBuffer()</text>
-<text text-anchor="start" x="248" y="-2726.5" font-family="Helvetica,sans-Serif" font-size="10.00">* releaseBuffer()</text>
-<text text-anchor="start" x="248" y="-2715.5" font-family="Helvetica,sans-Serif" font-size="10.00">* getBufferCount()</text>
-<text text-anchor="start" x="248" y="-2704.5" font-family="Helvetica,sans-Serif" font-size="10.00">* getAvailableBufferCount()</text>
-<text text-anchor="start" x="248" y="-2693.5" font-family="Helvetica,sans-Serif" font-size="10.00">* ~XMLBufferMgr()</text>
-<text text-anchor="start" x="248" y="-2682.5" font-family="Helvetica,sans-Serif" font-size="10.00">* bidOnBuffer()</text>
-<text text-anchor="start" x="248" y="-2671.5" font-family="Helvetica,sans-Serif" font-size="10.00">* releaseBuffer()</text>
-<text text-anchor="start" x="248" y="-2660.5" font-family="Helvetica,sans-Serif" font-size="10.00">* getBufferCount()</text>
-<text text-anchor="start" x="248" y="-2649.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 12 more...</text>
-<text text-anchor="start" x="248" y="-2638.5" font-family="Helvetica,sans-Serif" font-size="10.00">* XMLBufferMgr()</text>
-<text text-anchor="start" x="248" y="-2627.5" font-family="Helvetica,sans-Serif" font-size="10.00">* XMLBufferMgr()</text>
+<polygon fill="white" stroke="black" points="240,-2615 240,-2848 391,-2848 391,-2615 240,-2615"/>
+<text text-anchor="middle" x="315.5" y="-2836" font-family="Helvetica,sans-Serif" font-size="10.00">XMLBufferMgr</text>
+<polyline fill="none" stroke="black" points="240,-2829 391,-2829 "/>
+<text text-anchor="middle" x="315.5" y="-2817" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="240,-2810 391,-2810 "/>
+<text text-anchor="start" x="248" y="-2798" font-family="Helvetica,sans-Serif" font-size="10.00">+ XMLBufferMgr()</text>
+<text text-anchor="start" x="248" y="-2787" font-family="Helvetica,sans-Serif" font-size="10.00">+ XMLBufferMgr()</text>
+<text text-anchor="start" x="248" y="-2776" font-family="Helvetica,sans-Serif" font-size="10.00">+ XMLBufferMgr()</text>
+<text text-anchor="start" x="248" y="-2765" font-family="Helvetica,sans-Serif" font-size="10.00">* fBufCount</text>
+<text text-anchor="start" x="248" y="-2754" font-family="Helvetica,sans-Serif" font-size="10.00">* ~XMLBufferMgr()</text>
+<text text-anchor="start" x="248" y="-2743" font-family="Helvetica,sans-Serif" font-size="10.00">* bidOnBuffer()</text>
+<text text-anchor="start" x="248" y="-2732" font-family="Helvetica,sans-Serif" font-size="10.00">* releaseBuffer()</text>
+<text text-anchor="start" x="248" y="-2721" font-family="Helvetica,sans-Serif" font-size="10.00">* getBufferCount()</text>
+<text text-anchor="start" x="248" y="-2710" font-family="Helvetica,sans-Serif" font-size="10.00">* getAvailableBufferCount()</text>
+<text text-anchor="start" x="248" y="-2699" font-family="Helvetica,sans-Serif" font-size="10.00">* ~XMLBufferMgr()</text>
+<text text-anchor="start" x="248" y="-2688" font-family="Helvetica,sans-Serif" font-size="10.00">* bidOnBuffer()</text>
+<text text-anchor="start" x="248" y="-2677" font-family="Helvetica,sans-Serif" font-size="10.00">* releaseBuffer()</text>
+<text text-anchor="start" x="248" y="-2666" font-family="Helvetica,sans-Serif" font-size="10.00">* getBufferCount()</text>
+<text text-anchor="start" x="248" y="-2655" font-family="Helvetica,sans-Serif" font-size="10.00">and 12 more...</text>
+<text text-anchor="start" x="248" y="-2644" font-family="Helvetica,sans-Serif" font-size="10.00">* XMLBufferMgr()</text>
+<text text-anchor="start" x="248" y="-2633" font-family="Helvetica,sans-Serif" font-size="10.00">* XMLBufferMgr()</text>
+<text text-anchor="start" x="248" y="-2622" font-family="Helvetica,sans-Serif" font-size="10.00">* XMLBufferMgr()</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node27 -->
 <g id="edge99" class="edge">
 <title>Node2&#45;&gt;Node27</title>
-<path fill="none" stroke="midnightblue" d="M3144.24,-4134.24C2890.04,-4133.87 1973.82,-4118.62 1797.5,-3912 1778.11,-3889.28 1820.91,-3913.67 1841.5,-3883 1899.59,-3796.47 1914.58,-3019.31 1841.5,-2945 1820.44,-2923.59 790.4,-2929.8 760.5,-2927 731.76,-2924.31 725.14,-2919.56 696.5,-2916 644.96,-2909.59 510.69,-2919.67 463.5,-2898 435.02,-2884.92 408.66,-2864.74 386.2,-2842.91"/>
+<path fill="none" stroke="midnightblue" d="M3144.24,-4134.24C2890.04,-4133.87 1973.82,-4118.62 1797.5,-3912 1778.11,-3889.28 1820.91,-3913.67 1841.5,-3883 1899.59,-3796.47 1914.58,-3019.31 1841.5,-2945 1820.44,-2923.59 790.4,-2929.8 760.5,-2927 731.76,-2924.31 725.14,-2919.56 696.5,-2916 644.96,-2909.59 510.69,-2919.67 463.5,-2898 437.06,-2885.86 412.44,-2867.59 391.07,-2847.56"/>
 <polygon fill="none" stroke="midnightblue" points="3144.42,-4137.74 3154.43,-4134.25 3144.43,-4130.74 3144.42,-4137.74"/>
 </g>
 <!-- Node2&#45;&gt;Node27 -->
@@ -2459,8 +2460,8 @@
 <!-- Node7&#45;&gt;Node27 -->
 <g id="edge102" class="edge">
 <title>Node7&#45;&gt;Node27</title>
-<path fill="none" stroke="#404040" d="M600.21,-4109.59C498.12,-4076.85 337.76,-4007.84 266.5,-3883 214.84,-3792.48 209.91,-3032.52 266.5,-2945 277.09,-2928.63 295.54,-2943.12 306.5,-2927 320.86,-2905.88 327.52,-2880.3 329.79,-2854.71"/>
-<polygon fill="none" stroke="#404040" points="329.8,-2854.55 326.18,-2848.31 330.55,-2842.57 334.17,-2848.81 329.8,-2854.55"/>
+<path fill="none" stroke="#404040" d="M600.21,-4109.59C498.12,-4076.85 337.76,-4007.84 266.5,-3883 214.84,-3792.48 209.91,-3032.52 266.5,-2945 277.09,-2928.63 295.54,-2943.12 306.5,-2927 319.83,-2907.39 326.53,-2883.92 329.24,-2860.19"/>
+<polygon fill="none" stroke="#404040" points="329.24,-2860.1 325.78,-2853.78 330.28,-2848.15 333.75,-2854.47 329.24,-2860.1"/>
 <text text-anchor="middle" x="313.5" y="-3411.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;fMemoryManager</text>
 </g>
 <!-- Node7&#45;&gt;Node28 -->
@@ -2845,14 +2846,14 @@
 <!-- Node27&#45;&gt;Node11 -->
 <g id="edge98" class="edge">
 <title>Node27&#45;&gt;Node11</title>
-<path fill="none" stroke="#404040" d="M356.24,-2620.5C368.94,-2599.07 385.12,-2578.95 405.5,-2565 457.27,-2529.56 497.66,-2587.59 545.5,-2547 559.65,-2534.99 554.27,-2525.28 557.5,-2507 565.79,-2460.09 551.28,-2114.98 582.5,-2079 608.95,-2048.52 644.18,-2090.7 671.5,-2061 894.49,-1818.64 532.54,-1565.53 757.5,-1325 948.4,-1120.88 1846.36,-1064.92 2151.06,-1051.67"/>
+<path fill="none" stroke="#404040" d="M359.6,-2614.99C371.76,-2595.65 386.88,-2577.75 405.5,-2565 457.27,-2529.56 497.66,-2587.59 545.5,-2547 559.65,-2534.99 554.27,-2525.28 557.5,-2507 565.79,-2460.09 551.28,-2114.98 582.5,-2079 608.95,-2048.52 644.18,-2090.7 671.5,-2061 894.49,-1818.64 532.54,-1565.53 757.5,-1325 948.4,-1120.88 1846.36,-1064.92 2151.06,-1051.67"/>
 <polygon fill="none" stroke="#404040" points="2151.4,-1051.66 2157.22,-1047.4 2163.39,-1051.14 2157.56,-1055.4 2151.4,-1051.66"/>
 <text text-anchor="middle" x="608" y="-2087.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #fBufMgr</text>
 </g>
 <!-- Node27&#45;&gt;Node60 -->
 <g id="edge198" class="edge">
 <title>Node27&#45;&gt;Node60</title>
-<path fill="none" stroke="#404040" d="M299.95,-2620.36C270.87,-2372.87 232.29,-1762.5 487.5,-1354 841.05,-788.08 1653.88,-481.96 1912.75,-396.28"/>
+<path fill="none" stroke="#404040" d="M299.3,-2614.73C270.3,-2363.72 234.21,-1759.44 487.5,-1354 841.05,-788.08 1653.88,-481.96 1912.75,-396.28"/>
 <polygon fill="none" stroke="#404040" points="1912.89,-396.23 1917.34,-390.56 1924.29,-392.48 1919.84,-398.16 1912.89,-396.23"/>
 <text text-anchor="middle" x="510.5" y="-1705" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;fBufMgr</text>
 </g>
@@ -2872,8 +2873,8 @@
 <!-- Node28&#45;&gt;Node27 -->
 <g id="edge103" class="edge">
 <title>Node28&#45;&gt;Node27</title>
-<path fill="none" stroke="#404040" d="M406.7,-3297.38C394.2,-3202.52 375.22,-3064.83 355.5,-2945 350.68,-2915.7 345.02,-2884.22 339.5,-2854.7"/>
-<polygon fill="none" stroke="#404040" points="339.44,-2854.41 334.4,-2849.26 337.23,-2842.62 342.27,-2847.78 339.44,-2854.41"/>
+<path fill="none" stroke="#404040" d="M406.7,-3297.38C394.2,-3202.52 375.22,-3064.83 355.5,-2945 350.97,-2917.45 345.69,-2887.97 340.49,-2860.01"/>
+<polygon fill="none" stroke="#404040" points="340.47,-2859.93 335.44,-2854.76 338.26,-2848.13 343.3,-2853.29 340.47,-2859.93"/>
 <text text-anchor="middle" x="375" y="-2919" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;fBufList</text>
 </g>
 <!-- Node29 -->
