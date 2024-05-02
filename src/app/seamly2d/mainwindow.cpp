@@ -463,7 +463,7 @@ QSharedPointer<VMeasurements> MainWindow::OpenMeasurementFile(const QString &pat
 
         CheckRequiredMeasurements(measurements.data());
 
-        if (measurements->Type() == MeasurementsType::Multisize)
+        if (measurements.data()->Type() == MeasurementsType::Multisize)
         {
             if (measurements->MUnit() == Unit::Inch)
             {
