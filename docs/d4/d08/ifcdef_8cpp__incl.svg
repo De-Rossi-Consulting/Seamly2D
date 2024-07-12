@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 837;
+var viewWidth = 830;
 var viewHeight = 252;
 var sectionId = 'dynsection-0';
 </script>
@@ -54,7 +54,7 @@ var sectionId = 'dynsection-0';
 <svg id="graph" class="graph">
 <g id="viewport">
 <title>src/libs/ifc/ifcdef.cpp</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-248 832.5,-248 832.5,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-248 826,-248 826,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
@@ -89,7 +89,7 @@ var sectionId = 'dynsection-0';
 </g>
 </g>
 <!-- Node1&#45;&gt;Node3 -->
-<g id="edge24" class="edge">
+<g id="edge25" class="edge">
 <title>Node1&#45;&gt;Node3</title>
 <path fill="none" stroke="midnightblue" d="M419.42,-226.66C369.9,-220.19 297.29,-208.19 236.5,-188 182.93,-170.21 171.32,-160.34 122.5,-132 95.15,-116.13 65.21,-95.25 46.16,-81.5"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="48.13,-78.6 37.99,-75.54 44.01,-84.26 48.13,-78.6"/>
@@ -104,7 +104,7 @@ var sectionId = 'dynsection-0';
 </g>
 </g>
 <!-- Node1&#45;&gt;Node14 -->
-<g id="edge25" class="edge">
+<g id="edge26" class="edge">
 <title>Node1&#45;&gt;Node14</title>
 <path fill="none" stroke="midnightblue" d="M419.3,-228.33C392.22,-222.9 362.34,-211.53 345.5,-188 329.35,-165.44 361.66,-146.66 390.35,-135.18"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="391.76,-138.39 399.87,-131.58 389.28,-131.85 391.76,-138.39"/>
@@ -158,61 +158,61 @@ var sectionId = 'dynsection-0';
 <g id="node18" class="node">
 <title>Node18</title>
 <g id="a_node18"><a xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="550.5,-168.5 550.5,-187.5 608.5,-187.5 608.5,-168.5 550.5,-168.5"/>
-<text text-anchor="middle" x="579.5" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00">QPainter</text>
+<polygon fill="white" stroke="#bfbfbf" points="550.5,-168.5 550.5,-187.5 606.5,-187.5 606.5,-168.5 550.5,-168.5"/>
+<text text-anchor="middle" x="578.5" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00">QObject</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node18 -->
 <g id="edge21" class="edge">
 <title>Node1&#45;&gt;Node18</title>
-<path fill="none" stroke="midnightblue" d="M493.89,-224.32C510.17,-215.7 535.37,-202.36 554.22,-192.39"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="555.95,-195.43 563.15,-187.65 552.68,-189.24 555.95,-195.43"/>
+<path fill="none" stroke="midnightblue" d="M493.73,-224.32C509.85,-215.7 534.8,-202.36 553.46,-192.39"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="555.14,-195.46 562.31,-187.65 551.84,-189.28 555.14,-195.46"/>
 </g>
 <!-- Node19 -->
 <g id="node19" class="node">
 <title>Node19</title>
 <g id="a_node19"><a xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="626.5,-168.5 626.5,-187.5 668.5,-187.5 668.5,-168.5 626.5,-168.5"/>
-<text text-anchor="middle" x="647.5" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00">QPen</text>
+<polygon fill="white" stroke="#bfbfbf" points="624.5,-168.5 624.5,-187.5 682.5,-187.5 682.5,-168.5 624.5,-168.5"/>
+<text text-anchor="middle" x="653.5" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00">QPainter</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node19 -->
 <g id="edge22" class="edge">
 <title>Node1&#45;&gt;Node19</title>
-<path fill="none" stroke="midnightblue" d="M504.44,-224.44C534.93,-214.76 584.53,-199 616.59,-188.82"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="617.86,-192.09 626.33,-185.73 615.74,-185.42 617.86,-192.09"/>
+<path fill="none" stroke="midnightblue" d="M505.39,-224.44C535.25,-215.28 582.81,-200.69 615.96,-190.52"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="617.21,-193.8 625.74,-187.52 615.16,-187.1 617.21,-193.8"/>
 </g>
 <!-- Node20 -->
 <g id="node20" class="node">
 <title>Node20</title>
 <g id="a_node20"><a xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="687,-168.5 687,-187.5 748,-187.5 748,-168.5 687,-168.5"/>
-<text text-anchor="middle" x="717.5" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00">QPixmap</text>
+<polygon fill="white" stroke="#bfbfbf" points="700.5,-168.5 700.5,-187.5 742.5,-187.5 742.5,-168.5 700.5,-168.5"/>
+<text text-anchor="middle" x="721.5" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00">QPen</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node20 -->
 <g id="edge23" class="edge">
 <title>Node1&#45;&gt;Node20</title>
-<path fill="none" stroke="midnightblue" d="M515.53,-224.44C559.55,-214.54 631.76,-198.29 676.86,-188.14"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="677.9,-191.5 686.88,-185.89 676.36,-184.67 677.9,-191.5"/>
+<path fill="none" stroke="midnightblue" d="M523.68,-224.46C565.07,-216.54 627.63,-203.92 690.56,-188.08"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="691.43,-191.47 700.26,-185.61 689.7,-184.69 691.43,-191.47"/>
 </g>
 <!-- Node21 -->
 <g id="node21" class="node">
 <title>Node21</title>
 <g id="a_node21"><a xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="766.5,-168.5 766.5,-187.5 828.5,-187.5 828.5,-168.5 766.5,-168.5"/>
-<text text-anchor="middle" x="797.5" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00">qobject.h</text>
+<polygon fill="white" stroke="#bfbfbf" points="761,-168.5 761,-187.5 822,-187.5 822,-168.5 761,-168.5"/>
+<text text-anchor="middle" x="791.5" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00">QPixmap</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node21 -->
-<g id="edge26" class="edge">
+<g id="edge24" class="edge">
 <title>Node1&#45;&gt;Node21</title>
-<path fill="none" stroke="midnightblue" d="M535.6,-224.74C590.14,-216.73 674.23,-203.78 756.12,-188.17"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="756.94,-191.58 766.1,-186.26 755.61,-184.71 756.94,-191.58"/>
+<path fill="none" stroke="midnightblue" d="M535.41,-224.5C588.81,-216.43 670.52,-203.5 751.14,-187.97"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="751.81,-191.41 760.96,-186.06 750.48,-184.53 751.81,-191.41"/>
 </g>
 <!-- Node2&#45;&gt;Node3 -->
 <g id="edge2" class="edge">
