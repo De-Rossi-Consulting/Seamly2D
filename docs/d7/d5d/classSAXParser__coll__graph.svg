@@ -2509,39 +2509,37 @@ var sectionId = 'dynsection-1';
 <g id="node10" class="node">
 <title>Node10</title>
 <g id="a_node10"><a xlink:href="../../dc/db4/classEntityResolver.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="5706.3,-2734.5 5706.3,-3011.5 5821.3,-3011.5 5821.3,-2734.5 5706.3,-2734.5"/>
-<text text-anchor="middle" x="5763.8" y="-2999.5" font-family="Helvetica,sans-Serif" font-size="10.00">EntityResolver</text>
-<polyline fill="none" stroke="black" points="5706.3,-2992.5 5821.3,-2992.5 "/>
-<text text-anchor="middle" x="5763.8" y="-2980.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="5706.3,-2973.5 5821.3,-2973.5 "/>
-<text text-anchor="start" x="5714.3" y="-2961.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ EntityResolver()</text>
-<text text-anchor="start" x="5714.3" y="-2950.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~EntityResolver()</text>
-<text text-anchor="start" x="5714.3" y="-2939.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ EntityResolver()</text>
-<text text-anchor="start" x="5714.3" y="-2928.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~EntityResolver()</text>
-<text text-anchor="start" x="5714.3" y="-2917.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ EntityResolver()</text>
-<text text-anchor="start" x="5714.3" y="-2906.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~EntityResolver()</text>
-<text text-anchor="start" x="5714.3" y="-2895.5" font-family="Helvetica,sans-Serif" font-size="10.00">* EntityResolver()</text>
-<text text-anchor="start" x="5714.3" y="-2884.5" font-family="Helvetica,sans-Serif" font-size="10.00">* ~EntityResolver()</text>
-<text text-anchor="start" x="5714.3" y="-2873.5" font-family="Helvetica,sans-Serif" font-size="10.00">* EntityResolver()</text>
-<text text-anchor="start" x="5714.3" y="-2862.5" font-family="Helvetica,sans-Serif" font-size="10.00">* ~EntityResolver()</text>
+<polygon fill="white" stroke="black" points="5706.3,-2745.5 5706.3,-3000.5 5821.3,-3000.5 5821.3,-2745.5 5706.3,-2745.5"/>
+<text text-anchor="middle" x="5763.8" y="-2988.5" font-family="Helvetica,sans-Serif" font-size="10.00">EntityResolver</text>
+<polyline fill="none" stroke="black" points="5706.3,-2981.5 5821.3,-2981.5 "/>
+<text text-anchor="middle" x="5763.8" y="-2969.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="5706.3,-2962.5 5821.3,-2962.5 "/>
+<text text-anchor="start" x="5714.3" y="-2950.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ EntityResolver()</text>
+<text text-anchor="start" x="5714.3" y="-2939.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~EntityResolver()</text>
+<text text-anchor="start" x="5714.3" y="-2928.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ EntityResolver()</text>
+<text text-anchor="start" x="5714.3" y="-2917.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~EntityResolver()</text>
+<text text-anchor="start" x="5714.3" y="-2906.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ EntityResolver()</text>
+<text text-anchor="start" x="5714.3" y="-2895.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~EntityResolver()</text>
+<text text-anchor="start" x="5714.3" y="-2884.5" font-family="Helvetica,sans-Serif" font-size="10.00">* resolveEntity()</text>
+<text text-anchor="start" x="5714.3" y="-2873.5" font-family="Helvetica,sans-Serif" font-size="10.00">* resolveEntity()</text>
+<text text-anchor="start" x="5714.3" y="-2862.5" font-family="Helvetica,sans-Serif" font-size="10.00">* resolveEntity()</text>
 <text text-anchor="start" x="5714.3" y="-2851.5" font-family="Helvetica,sans-Serif" font-size="10.00">* EntityResolver()</text>
-<text text-anchor="start" x="5714.3" y="-2840.5" font-family="Helvetica,sans-Serif" font-size="10.00">* ~EntityResolver()</text>
-<text text-anchor="start" x="5714.3" y="-2829.5" font-family="Helvetica,sans-Serif" font-size="10.00">* resolveEntity()</text>
-<text text-anchor="start" x="5714.3" y="-2818.5" font-family="Helvetica,sans-Serif" font-size="10.00">* resolveEntity()</text>
-<text text-anchor="start" x="5714.3" y="-2807.5" font-family="Helvetica,sans-Serif" font-size="10.00">* resolveEntity()</text>
-<text text-anchor="start" x="5714.3" y="-2796.5" font-family="Helvetica,sans-Serif" font-size="10.00">* EntityResolver()</text>
-<text text-anchor="start" x="5714.3" y="-2785.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator=()</text>
-<text text-anchor="start" x="5714.3" y="-2774.5" font-family="Helvetica,sans-Serif" font-size="10.00">* EntityResolver()</text>
-<text text-anchor="start" x="5714.3" y="-2763.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator=()</text>
-<text text-anchor="start" x="5714.3" y="-2752.5" font-family="Helvetica,sans-Serif" font-size="10.00">* EntityResolver()</text>
-<text text-anchor="start" x="5714.3" y="-2741.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator=()</text>
+<text text-anchor="start" x="5714.3" y="-2840.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator=()</text>
+<text text-anchor="start" x="5714.3" y="-2829.5" font-family="Helvetica,sans-Serif" font-size="10.00">* EntityResolver()</text>
+<text text-anchor="start" x="5714.3" y="-2818.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator=()</text>
+<text text-anchor="start" x="5714.3" y="-2807.5" font-family="Helvetica,sans-Serif" font-size="10.00">* EntityResolver()</text>
+<text text-anchor="start" x="5714.3" y="-2796.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator=()</text>
+<text text-anchor="start" x="5714.3" y="-2785.5" font-family="Helvetica,sans-Serif" font-size="10.00">* EntityResolver()</text>
+<text text-anchor="start" x="5714.3" y="-2774.5" font-family="Helvetica,sans-Serif" font-size="10.00">* ~EntityResolver()</text>
+<text text-anchor="start" x="5714.3" y="-2763.5" font-family="Helvetica,sans-Serif" font-size="10.00">* EntityResolver()</text>
+<text text-anchor="start" x="5714.3" y="-2752.5" font-family="Helvetica,sans-Serif" font-size="10.00">* ~EntityResolver()</text>
 </a>
 </g>
 </g>
 <!-- Node10&#45;&gt;Node1 -->
 <g id="edge21" class="edge">
 <title>Node10&#45;&gt;Node1</title>
-<path fill="none" stroke="#404040" d="M5746.57,-2734.38C5735.84,-2664.21 5719.66,-2578.06 5696.8,-2503 5577.28,-2110.45 5371.25,-1677.33 5246.35,-1430.7"/>
+<path fill="none" stroke="#404040" d="M5748.19,-2745.17C5737.5,-2673.18 5720.84,-2581.95 5696.8,-2503 5577.28,-2110.45 5371.25,-1677.33 5246.35,-1430.7"/>
 <polygon fill="none" stroke="#404040" points="5246.26,-1430.53 5239.98,-1426.99 5240.84,-1419.83 5247.12,-1423.37 5246.26,-1430.53"/>
 <text text-anchor="middle" x="5728.8" y="-2477" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;fEntityResolver</text>
 </g>
@@ -2556,57 +2554,48 @@ var sectionId = 'dynsection-1';
 <g id="node12" class="node">
 <title>Node12</title>
 <g id="a_node12"><a xlink:href="../../d3/d8d/classAttributeList.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="580.8,-5079.5 580.8,-5477.5 684.8,-5477.5 684.8,-5079.5 580.8,-5079.5"/>
-<text text-anchor="middle" x="632.8" y="-5465.5" font-family="Helvetica,sans-Serif" font-size="10.00">AttributeList</text>
-<polyline fill="none" stroke="black" points="580.8,-5458.5 684.8,-5458.5 "/>
-<text text-anchor="middle" x="632.8" y="-5446.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="580.8,-5439.5 684.8,-5439.5 "/>
-<text text-anchor="start" x="588.8" y="-5427.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLength()</text>
-<text text-anchor="start" x="588.8" y="-5416.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getName()</text>
-<text text-anchor="start" x="588.8" y="-5405.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getType()</text>
-<text text-anchor="start" x="588.8" y="-5394.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getValue()</text>
-<text text-anchor="start" x="588.8" y="-5383.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getType()</text>
-<text text-anchor="start" x="588.8" y="-5372.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getValue()</text>
-<text text-anchor="start" x="588.8" y="-5361.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getValue()</text>
-<text text-anchor="start" x="588.8" y="-5350.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ AttributeList()</text>
-<text text-anchor="start" x="588.8" y="-5339.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~AttributeList()</text>
-<text text-anchor="start" x="588.8" y="-5328.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ AttributeList()</text>
-<text text-anchor="start" x="588.8" y="-5317.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~AttributeList()</text>
-<text text-anchor="start" x="588.8" y="-5306.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ AttributeList()</text>
-<text text-anchor="start" x="588.8" y="-5295.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~AttributeList()</text>
-<text text-anchor="start" x="588.8" y="-5284.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; AttributeList()</text>
-<text text-anchor="start" x="588.8" y="-5273.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
-<text text-anchor="start" x="588.8" y="-5262.5" font-family="Helvetica,sans-Serif" font-size="10.00">* AttributeList()</text>
-<text text-anchor="start" x="588.8" y="-5251.5" font-family="Helvetica,sans-Serif" font-size="10.00">* ~AttributeList()</text>
-<text text-anchor="start" x="588.8" y="-5240.5" font-family="Helvetica,sans-Serif" font-size="10.00">* AttributeList()</text>
-<text text-anchor="start" x="588.8" y="-5229.5" font-family="Helvetica,sans-Serif" font-size="10.00">* ~AttributeList()</text>
-<text text-anchor="start" x="588.8" y="-5218.5" font-family="Helvetica,sans-Serif" font-size="10.00">* AttributeList()</text>
-<text text-anchor="start" x="588.8" y="-5207.5" font-family="Helvetica,sans-Serif" font-size="10.00">* ~AttributeList()</text>
-<text text-anchor="start" x="588.8" y="-5196.5" font-family="Helvetica,sans-Serif" font-size="10.00">* getLength()</text>
-<text text-anchor="start" x="588.8" y="-5185.5" font-family="Helvetica,sans-Serif" font-size="10.00">* getName()</text>
-<text text-anchor="start" x="588.8" y="-5174.5" font-family="Helvetica,sans-Serif" font-size="10.00">* getType()</text>
-<text text-anchor="start" x="588.8" y="-5163.5" font-family="Helvetica,sans-Serif" font-size="10.00">* getValue()</text>
-<text text-anchor="start" x="588.8" y="-5152.5" font-family="Helvetica,sans-Serif" font-size="10.00">* getType()</text>
-<text text-anchor="start" x="588.8" y="-5141.5" font-family="Helvetica,sans-Serif" font-size="10.00">* getValue()</text>
-<text text-anchor="start" x="588.8" y="-5130.5" font-family="Helvetica,sans-Serif" font-size="10.00">* getValue()</text>
-<text text-anchor="start" x="588.8" y="-5119.5" font-family="Helvetica,sans-Serif" font-size="10.00">* getLength()</text>
-<text text-anchor="start" x="588.8" y="-5108.5" font-family="Helvetica,sans-Serif" font-size="10.00">* getName()</text>
-<text text-anchor="start" x="588.8" y="-5097.5" font-family="Helvetica,sans-Serif" font-size="10.00">* getType()</text>
-<text text-anchor="start" x="588.8" y="-5086.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 8 more...</text>
+<polygon fill="white" stroke="black" points="580.8,-5129 580.8,-5428 684.8,-5428 684.8,-5129 580.8,-5129"/>
+<text text-anchor="middle" x="632.8" y="-5416" font-family="Helvetica,sans-Serif" font-size="10.00">AttributeList</text>
+<polyline fill="none" stroke="black" points="580.8,-5409 684.8,-5409 "/>
+<text text-anchor="middle" x="632.8" y="-5397" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="580.8,-5390 684.8,-5390 "/>
+<text text-anchor="start" x="588.8" y="-5378" font-family="Helvetica,sans-Serif" font-size="10.00">+ AttributeList()</text>
+<text text-anchor="start" x="588.8" y="-5367" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~AttributeList()</text>
+<text text-anchor="start" x="588.8" y="-5356" font-family="Helvetica,sans-Serif" font-size="10.00">+ AttributeList()</text>
+<text text-anchor="start" x="588.8" y="-5345" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~AttributeList()</text>
+<text text-anchor="start" x="588.8" y="-5334" font-family="Helvetica,sans-Serif" font-size="10.00">+ AttributeList()</text>
+<text text-anchor="start" x="588.8" y="-5323" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~AttributeList()</text>
+<text text-anchor="start" x="588.8" y="-5312" font-family="Helvetica,sans-Serif" font-size="10.00">* AttributeList()</text>
+<text text-anchor="start" x="588.8" y="-5301" font-family="Helvetica,sans-Serif" font-size="10.00">* ~AttributeList()</text>
+<text text-anchor="start" x="588.8" y="-5290" font-family="Helvetica,sans-Serif" font-size="10.00">* AttributeList()</text>
+<text text-anchor="start" x="588.8" y="-5279" font-family="Helvetica,sans-Serif" font-size="10.00">* ~AttributeList()</text>
+<text text-anchor="start" x="588.8" y="-5268" font-family="Helvetica,sans-Serif" font-size="10.00">* AttributeList()</text>
+<text text-anchor="start" x="588.8" y="-5257" font-family="Helvetica,sans-Serif" font-size="10.00">* ~AttributeList()</text>
+<text text-anchor="start" x="588.8" y="-5246" font-family="Helvetica,sans-Serif" font-size="10.00">* getLength()</text>
+<text text-anchor="start" x="588.8" y="-5235" font-family="Helvetica,sans-Serif" font-size="10.00">* getName()</text>
+<text text-anchor="start" x="588.8" y="-5224" font-family="Helvetica,sans-Serif" font-size="10.00">* getType()</text>
+<text text-anchor="start" x="588.8" y="-5213" font-family="Helvetica,sans-Serif" font-size="10.00">* getValue()</text>
+<text text-anchor="start" x="588.8" y="-5202" font-family="Helvetica,sans-Serif" font-size="10.00">* getType()</text>
+<text text-anchor="start" x="588.8" y="-5191" font-family="Helvetica,sans-Serif" font-size="10.00">* getValue()</text>
+<text text-anchor="start" x="588.8" y="-5180" font-family="Helvetica,sans-Serif" font-size="10.00">* getValue()</text>
+<text text-anchor="start" x="588.8" y="-5169" font-family="Helvetica,sans-Serif" font-size="10.00">* getLength()</text>
+<text text-anchor="start" x="588.8" y="-5158" font-family="Helvetica,sans-Serif" font-size="10.00">* getName()</text>
+<text text-anchor="start" x="588.8" y="-5147" font-family="Helvetica,sans-Serif" font-size="10.00">* getType()</text>
+<text text-anchor="start" x="588.8" y="-5136" font-family="Helvetica,sans-Serif" font-size="10.00">and 17 more...</text>
 </a>
 </g>
 </g>
 <!-- Node12&#45;&gt;Node11 -->
 <g id="edge24" class="edge">
 <title>Node12&#45;&gt;Node11</title>
-<path fill="none" stroke="midnightblue" d="M679.36,-5070.43C679.84,-5069.61 680.32,-5068.8 680.8,-5068 734.23,-4978.92 825.4,-4897.31 885.77,-4852.63"/>
-<polygon fill="none" stroke="midnightblue" points="676.24,-5068.84 674.38,-5079.27 682.34,-5072.27 676.24,-5068.84"/>
+<path fill="none" stroke="midnightblue" d="M655.76,-5119.48C662.85,-5101.56 671.2,-5084.01 680.8,-5068 734.23,-4978.92 825.4,-4897.31 885.77,-4852.63"/>
+<polygon fill="none" stroke="midnightblue" points="652.47,-5118.29 652.17,-5128.88 659.01,-5120.79 652.47,-5118.29"/>
 </g>
 <!-- Node12&#45;&gt;Node11 -->
 <g id="edge26" class="edge">
 <title>Node12&#45;&gt;Node11</title>
-<path fill="none" stroke="midnightblue" d="M689.39,-5084.91C692.38,-5079.12 695.52,-5073.47 698.8,-5068 748.31,-4985.46 830.21,-4909.33 885.79,-4863.06"/>
-<polygon fill="none" stroke="midnightblue" points="686.14,-5083.59 684.8,-5094.1 692.4,-5086.72 686.14,-5083.59"/>
+<path fill="none" stroke="midnightblue" d="M673.64,-5119.48C680.85,-5101.56 689.2,-5084.01 698.8,-5068 748.31,-4985.46 830.21,-4909.33 885.79,-4863.06"/>
+<polygon fill="none" stroke="midnightblue" points="670.35,-5118.29 669.97,-5128.88 676.87,-5120.84 670.35,-5118.29"/>
 </g>
 <!-- Node12&#45;&gt;Node11 -->
 <g id="edge28" class="edge">

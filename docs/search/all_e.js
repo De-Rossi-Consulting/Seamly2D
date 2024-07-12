@@ -205,7 +205,7 @@ var searchData=
   ['nointersection_9678',['NoIntersection',['../d9/d3d/classVPosition.html#a905ce9545365858a6297da654abe1b8caa81313ddfa184bc1ecb63b5feae91e45',1,'VPosition']]],
   ['noisyfailuremsghandler_9679',['noisyFailureMsgHandler',['../d3/dd8/vapplication_8cpp.html#ac1c6657d17ee680cf99fb509cd9b2cbd',1,'noisyFailureMsgHandler(QtMsgType type, const QMessageLogContext &amp;context, const QString &amp;msg):&#160;vapplication.cpp'],['../da/dfb/mapplication_8cpp.html#ab63bcab707162d189352c194b213dd31',1,'noisyFailureMsgHandler(QtMsgType type, const QMessageLogContext &amp;context, const QString &amp;msg):&#160;mapplication.cpp']]],
   ['nomultiplevalues_9680',['NoMultipleValues',['../d5/dc5/classXMLValid.html#ac30e7f5d9612c52f5f1208c83f090c86ae669fa512d99cb068afc80500329e2a8',1,'XMLValid']]],
-  ['non_5fspacing_5fmark_9681',['NON_SPACING_MARK',['../dd/d02/classXMLUniCharacter.html#ac7284e3bec669b1245057966abb3bcf9abc25853809a9c4e657b8a3d4e120ecb5',1,'XMLUniCharacter']]],
+  ['non_5fspacing_5fmark_9681',['NON_SPACING_MARK',['../dd/d02/classXMLUniCharacter.html#ac580b112cf30aba9cb039b24f0b373ddabc25853809a9c4e657b8a3d4e120ecb5',1,'XMLUniCharacter']]],
   ['nonameglobalelement_9682',['NoNameGlobalElement',['../d7/d8e/classXMLErrs.html#aefe9817ef5442905d86fd17cb0c35e47a6695f338434f8844a8d8c1eef64df4e9',1,'XMLErrs']]],
   ['nonamerefattgroup_9683',['NoNameRefAttGroup',['../d7/d8e/classXMLErrs.html#aefe9817ef5442905d86fd17cb0c35e47a0f536a93dd525d9127bd1558b410aa1b',1,'XMLErrs']]],
   ['nonamerefattribute_9684',['NoNameRefAttribute',['../d7/d8e/classXMLErrs.html#aefe9817ef5442905d86fd17cb0c35e47a7e4d53a15785a9318c54c9f666a85000',1,'XMLErrs']]],
@@ -305,6 +305,6 @@ var searchData=
   ['numberformatexception_2ehpp_9778',['NumberFormatException.hpp',['../d0/dd5/msvc_2include_2xercesc_2util_2NumberFormatException_8hpp.html',1,'(Global Namespace)'],['../db/d0e/mingw_2include_2xercesc_2util_2NumberFormatException_8hpp.html',1,'(Global Namespace)'],['../d6/df9/macx_2include_2xercesc_2util_2NumberFormatException_8hpp.html',1,'(Global Namespace)']]],
   ['numberp_9779',['numberP',['../d0/dc3/classUnionDialog.html#a172c21bafdd0d977b9a180ffa087b72c',1,'UnionDialog']]],
   ['numbertype_9780',['NumberType',['../d5/d4b/classXMLNumber.html#a5c61954fb1fcef027fed8dccc826f8eb',1,'XMLNumber::NumberType()'],['../d5/d4b/classXMLNumber.html#a5c61954fb1fcef027fed8dccc826f8eb',1,'XMLNumber::NumberType()'],['../d5/d4b/classXMLNumber.html#a5c61954fb1fcef027fed8dccc826f8eb',1,'XMLNumber::NumberType()']]],
-  ['numdigitbuttons_9781',['NumDigitButtons',['../d7/deb/classCalculatorUtil.html#ab90b8074de076b0df724a471def477dba519d31007d7af4d4a83ac8a493c904d5',1,'CalculatorUtil']]],
+  ['numdigitbuttons_9781',['NumDigitButtons',['../d7/deb/classCalculatorUtil.html#a2a8373d53c75e5b252f80a36cac1e54fa519d31007d7af4d4a83ac8a493c904d5',1,'CalculatorUtil']]],
   ['numericsign_9782',['numericSign',['../de/dcf/classXSValue.html#a2e374ca45b0e3e75efb9e629d5b1e1da',1,'XSValue']]]
 ];
