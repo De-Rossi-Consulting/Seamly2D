@@ -2509,37 +2509,39 @@ var sectionId = 'dynsection-1';
 <g id="node10" class="node">
 <title>Node10</title>
 <g id="a_node10"><a xlink:href="../../dc/db4/classEntityResolver.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="5706.3,-2745.5 5706.3,-3000.5 5821.3,-3000.5 5821.3,-2745.5 5706.3,-2745.5"/>
-<text text-anchor="middle" x="5763.8" y="-2988.5" font-family="Helvetica,sans-Serif" font-size="10.00">EntityResolver</text>
-<polyline fill="none" stroke="black" points="5706.3,-2981.5 5821.3,-2981.5 "/>
-<text text-anchor="middle" x="5763.8" y="-2969.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="5706.3,-2962.5 5821.3,-2962.5 "/>
-<text text-anchor="start" x="5714.3" y="-2950.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ EntityResolver()</text>
-<text text-anchor="start" x="5714.3" y="-2939.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~EntityResolver()</text>
-<text text-anchor="start" x="5714.3" y="-2928.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ EntityResolver()</text>
-<text text-anchor="start" x="5714.3" y="-2917.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~EntityResolver()</text>
-<text text-anchor="start" x="5714.3" y="-2906.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ EntityResolver()</text>
-<text text-anchor="start" x="5714.3" y="-2895.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~EntityResolver()</text>
-<text text-anchor="start" x="5714.3" y="-2884.5" font-family="Helvetica,sans-Serif" font-size="10.00">* resolveEntity()</text>
-<text text-anchor="start" x="5714.3" y="-2873.5" font-family="Helvetica,sans-Serif" font-size="10.00">* resolveEntity()</text>
-<text text-anchor="start" x="5714.3" y="-2862.5" font-family="Helvetica,sans-Serif" font-size="10.00">* resolveEntity()</text>
+<polygon fill="white" stroke="black" points="5706.3,-2734.5 5706.3,-3011.5 5821.3,-3011.5 5821.3,-2734.5 5706.3,-2734.5"/>
+<text text-anchor="middle" x="5763.8" y="-2999.5" font-family="Helvetica,sans-Serif" font-size="10.00">EntityResolver</text>
+<polyline fill="none" stroke="black" points="5706.3,-2992.5 5821.3,-2992.5 "/>
+<text text-anchor="middle" x="5763.8" y="-2980.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="5706.3,-2973.5 5821.3,-2973.5 "/>
+<text text-anchor="start" x="5714.3" y="-2961.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ EntityResolver()</text>
+<text text-anchor="start" x="5714.3" y="-2950.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~EntityResolver()</text>
+<text text-anchor="start" x="5714.3" y="-2939.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ EntityResolver()</text>
+<text text-anchor="start" x="5714.3" y="-2928.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~EntityResolver()</text>
+<text text-anchor="start" x="5714.3" y="-2917.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ EntityResolver()</text>
+<text text-anchor="start" x="5714.3" y="-2906.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~EntityResolver()</text>
+<text text-anchor="start" x="5714.3" y="-2895.5" font-family="Helvetica,sans-Serif" font-size="10.00">* EntityResolver()</text>
+<text text-anchor="start" x="5714.3" y="-2884.5" font-family="Helvetica,sans-Serif" font-size="10.00">* ~EntityResolver()</text>
+<text text-anchor="start" x="5714.3" y="-2873.5" font-family="Helvetica,sans-Serif" font-size="10.00">* EntityResolver()</text>
+<text text-anchor="start" x="5714.3" y="-2862.5" font-family="Helvetica,sans-Serif" font-size="10.00">* ~EntityResolver()</text>
 <text text-anchor="start" x="5714.3" y="-2851.5" font-family="Helvetica,sans-Serif" font-size="10.00">* EntityResolver()</text>
-<text text-anchor="start" x="5714.3" y="-2840.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator=()</text>
-<text text-anchor="start" x="5714.3" y="-2829.5" font-family="Helvetica,sans-Serif" font-size="10.00">* EntityResolver()</text>
-<text text-anchor="start" x="5714.3" y="-2818.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator=()</text>
-<text text-anchor="start" x="5714.3" y="-2807.5" font-family="Helvetica,sans-Serif" font-size="10.00">* EntityResolver()</text>
-<text text-anchor="start" x="5714.3" y="-2796.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator=()</text>
-<text text-anchor="start" x="5714.3" y="-2785.5" font-family="Helvetica,sans-Serif" font-size="10.00">* EntityResolver()</text>
-<text text-anchor="start" x="5714.3" y="-2774.5" font-family="Helvetica,sans-Serif" font-size="10.00">* ~EntityResolver()</text>
-<text text-anchor="start" x="5714.3" y="-2763.5" font-family="Helvetica,sans-Serif" font-size="10.00">* EntityResolver()</text>
-<text text-anchor="start" x="5714.3" y="-2752.5" font-family="Helvetica,sans-Serif" font-size="10.00">* ~EntityResolver()</text>
+<text text-anchor="start" x="5714.3" y="-2840.5" font-family="Helvetica,sans-Serif" font-size="10.00">* ~EntityResolver()</text>
+<text text-anchor="start" x="5714.3" y="-2829.5" font-family="Helvetica,sans-Serif" font-size="10.00">* resolveEntity()</text>
+<text text-anchor="start" x="5714.3" y="-2818.5" font-family="Helvetica,sans-Serif" font-size="10.00">* resolveEntity()</text>
+<text text-anchor="start" x="5714.3" y="-2807.5" font-family="Helvetica,sans-Serif" font-size="10.00">* resolveEntity()</text>
+<text text-anchor="start" x="5714.3" y="-2796.5" font-family="Helvetica,sans-Serif" font-size="10.00">* EntityResolver()</text>
+<text text-anchor="start" x="5714.3" y="-2785.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator=()</text>
+<text text-anchor="start" x="5714.3" y="-2774.5" font-family="Helvetica,sans-Serif" font-size="10.00">* EntityResolver()</text>
+<text text-anchor="start" x="5714.3" y="-2763.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator=()</text>
+<text text-anchor="start" x="5714.3" y="-2752.5" font-family="Helvetica,sans-Serif" font-size="10.00">* EntityResolver()</text>
+<text text-anchor="start" x="5714.3" y="-2741.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator=()</text>
 </a>
 </g>
 </g>
 <!-- Node10&#45;&gt;Node1 -->
 <g id="edge21" class="edge">
 <title>Node10&#45;&gt;Node1</title>
-<path fill="none" stroke="#404040" d="M5748.19,-2745.17C5737.5,-2673.18 5720.84,-2581.95 5696.8,-2503 5577.28,-2110.45 5371.25,-1677.33 5246.35,-1430.7"/>
+<path fill="none" stroke="#404040" d="M5746.57,-2734.38C5735.84,-2664.21 5719.66,-2578.06 5696.8,-2503 5577.28,-2110.45 5371.25,-1677.33 5246.35,-1430.7"/>
 <polygon fill="none" stroke="#404040" points="5246.26,-1430.53 5239.98,-1426.99 5240.84,-1419.83 5247.12,-1423.37 5246.26,-1430.53"/>
 <text text-anchor="middle" x="5728.8" y="-2477" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;fEntityResolver</text>
 </g>
