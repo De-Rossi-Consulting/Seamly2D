@@ -53,13 +53,13 @@ var hierarchy =
       [ "PieceFillComboBox", "d8/d5b/classPieceFillComboBox.html", null ]
     ] ],
     [ "QDialog", null, [
+      [ "About2DAppDialog", "df/d22/classAbout2DAppDialog.html", null ],
       [ "AbstractLayoutDialog", "df/dc3/classAbstractLayoutDialog.html", [
         [ "ExportLayoutDialog", "de/dbd/classExportLayoutDialog.html", null ],
         [ "LayoutSettingsDialog", "db/d32/classLayoutSettingsDialog.html", null ]
       ] ],
       [ "CalculatorDialog", "dc/d3d/classCalculatorDialog.html", null ],
       [ "DecimalChartDialog", "db/dda/classDecimalChartDialog.html", null ],
-      [ "DialogAboutApp", "de/d06/classDialogAboutApp.html", null ],
       [ "DialogAboutSeamlyMe", "d7/d3a/classDialogAboutSeamlyMe.html", null ],
       [ "DialogDateTimeFormats", "da/d06/classDialogDateTimeFormats.html", null ],
       [ "DialogExportToCSV", "dc/d09/classDialogExportToCSV.html", null ],
@@ -392,6 +392,7 @@ var hierarchy =
       [ "FvUpdater", "d5/d23/classFvUpdater.html", null ],
       [ "GraphicsViewZoom", "da/d19/classGraphicsViewZoom.html", null ],
       [ "ImageItem", "d6/da8/classImageItem.html", null ],
+      [ "ImageTool", "df/d5b/classImageTool.html", null ],
       [ "ResizeHandlesItem", "d0/de9/classResizeHandlesItem.html", null ],
       [ "TST_FindPoint", "d6/d30/classTST__FindPoint.html", null ],
       [ "TST_Measurements", "da/d3b/classTST__Measurements.html", null ],
@@ -445,6 +446,7 @@ var hierarchy =
       [ "VLayoutGenerator", "d8/d8a/classVLayoutGenerator.html", null ],
       [ "VPE::VProperty", "db/df9/classVPE_1_1VProperty.html", [
         [ "VFormulaProperty", "df/d53/classVFormulaProperty.html", null ],
+        [ "VPE::DirectionProperty", "df/d74/classVPE_1_1DirectionProperty.html", null ],
         [ "VPE::LineTypeProperty", "d5/daa/classVPE_1_1LineTypeProperty.html", null ],
         [ "VPE::LineWeightProperty", "d8/ddf/classVPE_1_1LineWeightProperty.html", null ],
         [ "VPE::PlainTextProperty", "d6/d0b/classVPE_1_1PlainTextProperty.html", null ],

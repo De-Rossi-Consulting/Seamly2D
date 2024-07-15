@@ -22,6 +22,7 @@ var annotated_dup =
       [ "CheckableMessageBox", "dd/dc4/classUtils_1_1CheckableMessageBox.html", "dd/dc4/classUtils_1_1CheckableMessageBox" ]
     ] ],
     [ "VPE", "de/d21/namespaceVPE.html", [
+      [ "DirectionProperty", "df/d74/classVPE_1_1DirectionProperty.html", "df/d74/classVPE_1_1DirectionProperty" ],
       [ "LineWeightProperty", "d8/ddf/classVPE_1_1LineWeightProperty.html", "d8/ddf/classVPE_1_1LineWeightProperty" ],
       [ "PlainTextProperty", "d6/d0b/classVPE_1_1PlainTextProperty.html", "d6/d0b/classVPE_1_1PlainTextProperty" ],
       [ "VBoolProperty", "df/d02/classVPE_1_1VBoolProperty.html", "df/d02/classVPE_1_1VBoolProperty" ],
@@ -66,6 +67,7 @@ var annotated_dup =
       [ "VStandardPropertyFactory", "d1/d5a/classVPE_1_1VStandardPropertyFactory.html", "d1/d5a/classVPE_1_1VStandardPropertyFactory" ],
       [ "VWidgetPropertyPrivate", "df/da8/classVPE_1_1VWidgetPropertyPrivate.html", "df/da8/classVPE_1_1VWidgetPropertyPrivate" ]
     ] ],
+    [ "About2DAppDialog", "df/d22/classAbout2DAppDialog.html", "df/d22/classAbout2DAppDialog" ],
     [ "AbstractLayoutDialog", "df/dc3/classAbstractLayoutDialog.html", "df/dc3/classAbstractLayoutDialog" ],
     [ "AbstractMConverter", "d8/d6b/classAbstractMConverter.html", "d8/d6b/classAbstractMConverter" ],
     [ "AbstractTest", "d0/d9b/classAbstractTest.html", "d0/d9b/classAbstractTest" ],
@@ -99,7 +101,6 @@ var annotated_dup =
     [ "DelGroup", "d5/dbd/classDelGroup.html", "d5/dbd/classDelGroup" ],
     [ "DelTool", "d9/d22/classDelTool.html", "d9/d22/classDelTool" ],
     [ "DestinationItem", "de/d14/structDestinationItem.html", "de/d14/structDestinationItem" ],
-    [ "DialogAboutApp", "de/d06/classDialogAboutApp.html", "de/d06/classDialogAboutApp" ],
     [ "DialogAboutSeamlyMe", "d7/d3a/classDialogAboutSeamlyMe.html", "d7/d3a/classDialogAboutSeamlyMe" ],
     [ "DialogAlongLine", "dd/d63/classDialogAlongLine.html", "dd/d63/classDialogAlongLine" ],
     [ "DialogArc", "db/d4d/classDialogArc.html", "db/d4d/classDialogArc" ],
@@ -165,6 +166,7 @@ var annotated_dup =
     [ "HistoryDialog", "d1/d42/classHistoryDialog.html", "d1/d42/classHistoryDialog" ],
     [ "ImageDialog", "d3/db4/classImageDialog.html", "d3/db4/classImageDialog" ],
     [ "ImageItem", "d6/da8/classImageItem.html", "d6/da8/classImageItem" ],
+    [ "ImageTool", "df/d5b/classImageTool.html", "df/d5b/classImageTool" ],
     [ "IndividualSizeConverter", "d8/dfc/classIndividualSizeConverter.html", "d8/dfc/classIndividualSizeConverter" ],
     [ "InsertNodesDialog", "d6/d55/classInsertNodesDialog.html", "d6/d55/classInsertNodesDialog" ],
     [ "IntersectCirclesDialog", "d0/d09/classIntersectCirclesDialog.html", "d0/d09/classIntersectCirclesDialog" ],

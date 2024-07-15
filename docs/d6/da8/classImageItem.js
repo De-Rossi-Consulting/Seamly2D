@@ -1,6 +1,6 @@
 var classImageItem =
 [
-    [ "ImageItem", "d6/da8/classImageItem.html#a5795a7f793c156c61c1711c545bdfd72", null ],
+    [ "ImageItem", "d6/da8/classImageItem.html#a249241c39cc771557f96dc73ac78bcd4", null ],
     [ "~ImageItem", "d6/da8/classImageItem.html#afeae59e7d35a22b089f850bcef1b585a", null ],
     [ "boundingRect", "d6/da8/classImageItem.html#af9c8632937947e3771c64ab7441ec7b6", null ],
     [ "contextMenuEvent", "d6/da8/classImageItem.html#a04f60f5a033999f754204f2e3f0c4425", null ],
@@ -26,6 +26,7 @@ var classImageItem =
     [ "paint", "d6/da8/classImageItem.html#a12ed37551528af1d9d1ed4f8dfa61141", null ],
     [ "setImage", "d6/da8/classImageItem.html#af855c99ad2c88aabbcfebad71898638c", null ],
     [ "setLock", "d6/da8/classImageItem.html#ae7407dfad299fee07632ba6a3150a35c", null ],
+    [ "setOrigin", "d6/da8/classImageItem.html#aa94cc76a78ccfaa8bb0ebc0f4507fcdb", null ],
     [ "setPixmap", "d6/da8/classImageItem.html#a85426f8803aae827ba1145d44b91eec0", null ],
     [ "setStatusMessage", "d6/da8/classImageItem.html#a13e3ea8aa62cdff061de035470e7f01f", null ],
     [ "showContextMenu", "d6/da8/classImageItem.html#a82296b4d1ce5f41e6dc679f6390707d1", null ],
@@ -46,6 +47,7 @@ var classImageItem =
     [ "m_minDimension", "d6/da8/classImageItem.html#ad463d8367622401e2468f07740a3f4a6", null ],
     [ "m_mousePressed", "d6/da8/classImageItem.html#ad14c913e532860fe58f9cc5f8b4bd479", null ],
     [ "m_offset", "d6/da8/classImageItem.html#a162cad55dbbd102d827b5f0cfef69602", null ],
+    [ "m_origin", "d6/da8/classImageItem.html#a04ff809910444fc9962b8c67e364b338", null ],
     [ "m_pixmapHeight", "d6/da8/classImageItem.html#af1e0719aeeb561be022b7e0b6df41a20", null ],
     [ "m_pixmapWidth", "d6/da8/classImageItem.html#ae971f33ac8e266f52edb7cf51c92724b", null ],
     [ "m_resizeHandles", "d6/da8/classImageItem.html#aa2fd4ff53ba9695baf92b2ddc6d5c737", null ],
@@ -53,6 +55,7 @@ var classImageItem =
     [ "m_rotateLine", "d6/da8/classImageItem.html#a8e3db9815b502ee2e439db0e15857142", null ],
     [ "m_selectable", "d6/da8/classImageItem.html#a4c70bcd880dcb17b87d38c5374b800d6", null ],
     [ "m_selectionType", "d6/da8/classImageItem.html#ae18d95885a5803f15c0599cb8abc5be9", null ],
+    [ "m_selectNewOrigin", "d6/da8/classImageItem.html#aec9eca546de3f877f99033644ff5f68d", null ],
     [ "m_transformationMode", "d6/da8/classImageItem.html#afa75da956704d5f8c7d09ae003783e40", null ],
     [ "maxImageZvalue", "d6/da8/classImageItem.html#a1feda5457a74143e8d548acba78342b7", null ]
 ];
