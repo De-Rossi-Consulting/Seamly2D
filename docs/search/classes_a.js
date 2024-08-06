@@ -1,22 +1,6 @@
 var searchData=
 [
-  ['mainwindow_9770',['MainWindow',['../d6/d1a/classMainWindow.html',1,'']]],
-  ['mainwindowsnogui_9771',['MainWindowsNoGUI',['../de/d1a/classMainWindowsNoGUI.html',1,'']]],
-  ['measurementdatabasedialog_9772',['MeasurementDatabaseDialog',['../d3/d63/classMeasurementDatabaseDialog.html',1,'']]],
-  ['measurementdoc_9773',['MeasurementDoc',['../d9/d6d/classMeasurementDoc.html',1,'']]],
-  ['measurementvariable_9774',['MeasurementVariable',['../d5/d38/classMeasurementVariable.html',1,'']]],
-  ['measurementvariabledata_9775',['MeasurementVariableData',['../d3/d99/classMeasurementVariableData.html',1,'']]],
-  ['meshortcutsdialog_9776',['MeShortcutsDialog',['../dd/d67/classMeShortcutsDialog.html',1,'']]],
-  ['messagehandler_9777',['MessageHandler',['../df/df2/classMessageHandler.html',1,'']]],
-  ['mousecoordinates_9778',['MouseCoordinates',['../d2/d08/classMouseCoordinates.html',1,'']]],
-  ['moveabstractlabel_9779',['MoveAbstractLabel',['../d6/d7c/classMoveAbstractLabel.html',1,'']]],
-  ['movedoublelabel_9780',['MoveDoubleLabel',['../d1/d74/classMoveDoubleLabel.html',1,'']]],
-  ['movegroupitem_9781',['MoveGroupItem',['../df/dca/classMoveGroupItem.html',1,'']]],
-  ['movelabel_9782',['MoveLabel',['../d7/ddb/classMoveLabel.html',1,'']]],
-  ['moveoperationlabel_9783',['MoveOperationLabel',['../d7/d7b/classMoveOperationLabel.html',1,'']]],
-  ['movepiece_9784',['MovePiece',['../d9/da7/classMovePiece.html',1,'']]],
-  ['movespline_9785',['MoveSpline',['../de/db1/classMoveSpline.html',1,'']]],
-  ['movesplinepath_9786',['MoveSplinePath',['../d9/de8/classMoveSplinePath.html',1,'']]],
-  ['movespoint_9787',['MoveSPoint',['../da/df9/classMoveSPoint.html',1,'']]],
-  ['multisizeconverter_9788',['MultiSizeConverter',['../d6/d91/classMultiSizeConverter.html',1,'']]]
+  ['keyrefpair_17551',['KeyRefPair',['../dd/da1/classKeyRefPair.html',1,'']]],
+  ['keyvaluepair_17552',['KeyValuePair',['../d1/d62/classKeyValuePair.html',1,'']]],
+  ['kvstringpair_17553',['KVStringPair',['../df/d6f/classKVStringPair.html',1,'']]]
 ];
