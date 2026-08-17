@@ -126,8 +126,8 @@ var NAVTREEINDEX55 =
 "dc/de2/classVPE_1_1DoubleSpinboxProperty.html#a2d92a08b4327f3c9bbfec1725d92b061":[1,0,2,1,0],
 "dc/de2/classVPE_1_1DoubleSpinboxProperty.html#a38807dee4d5b9d3e4d8cef743abe7424":[0,0,23,1,2],
 "dc/de2/classVPE_1_1DoubleSpinboxProperty.html#a38807dee4d5b9d3e4d8cef743abe7424":[1,0,2,1,2],
-"dc/de2/classVPE_1_1DoubleSpinboxProperty.html#a4fae726adcac4f0cb302d18495aa9bfb":[0,0,23,1,3],
 "dc/de2/classVPE_1_1DoubleSpinboxProperty.html#a4fae726adcac4f0cb302d18495aa9bfb":[1,0,2,1,3],
+"dc/de2/classVPE_1_1DoubleSpinboxProperty.html#a4fae726adcac4f0cb302d18495aa9bfb":[0,0,23,1,3],
 "dc/de2/classVPE_1_1DoubleSpinboxProperty.html#a80a4b68298be4f51757ea09da71258b6":[1,0,2,1,5],
 "dc/de2/classVPE_1_1DoubleSpinboxProperty.html#a80a4b68298be4f51757ea09da71258b6":[0,0,23,1,5],
 "dc/de2/classVPE_1_1DoubleSpinboxProperty.html#a8ee2eba69baa743f806343bcbd84ada7":[1,0,2,1,10],
@@ -244,10 +244,10 @@ var NAVTREEINDEX55 =
 "dc/df4/classVToolLineIntersectAxis.html#ad2687acd98746b01f7a76b6bbe7f3271":[1,0,416,11],
 "dc/df4/classVToolLineIntersectAxis.html#aefd43fece345889ac501c4ddc12bd4e9":[1,0,416,16],
 "dc/df4/classVToolLineIntersectAxis.html#af6d696594d163ad5641ea2ecdbc1728e":[1,0,416,3],
-"dc/df7/classVPE_1_1VShortcutEditWidget.html":[1,0,2,38],
 "dc/df7/classVPE_1_1VShortcutEditWidget.html":[0,0,23,38],
+"dc/df7/classVPE_1_1VShortcutEditWidget.html":[1,0,2,38],
 "dc/df7/classVPE_1_1VShortcutEditWidget.html#a03128359d2a9f8b1a1f4ea967d8c6c63":[0,0,23,38,9],
 "dc/df7/classVPE_1_1VShortcutEditWidget.html#a03128359d2a9f8b1a1f4ea967d8c6c63":[1,0,2,38,9],
-"dc/df7/classVPE_1_1VShortcutEditWidget.html#a14a2bf29f66956aa1b0cb40899dd667b":[1,0,2,38,0],
-"dc/df7/classVPE_1_1VShortcutEditWidget.html#a14a2bf29f66956aa1b0cb40899dd667b":[0,0,23,38,0]
+"dc/df7/classVPE_1_1VShortcutEditWidget.html#a14a2bf29f66956aa1b0cb40899dd667b":[0,0,23,38,0],
+"dc/df7/classVPE_1_1VShortcutEditWidget.html#a14a2bf29f66956aa1b0cb40899dd667b":[1,0,2,38,0]
 };
